@@ -1,3 +1,7 @@
+#!/usr/bin/env node
+
+"use strict";
+
 import { FastMCP } from "fastmcp";
 import { tools } from "./tools/azure-devops-tools";
 import { Tool } from "./types/tools";

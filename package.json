@@ -1,11 +1,11 @@
 {
-  "name": "ares-datahub-mcp",
-  "version": "1.0.0",
+  "name": "ares-devops-mcp",
+  "version": "1.0.2",
   "description": "MCP server for Azure DevOps Git operations",
   "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "type": "commonjs",
   "bin": {
-    "atlas-datahub-mcp": "dist/index.js"
+    "ares-devops-mcp": "./dist/index.js"
   },
   "files": [
     "dist",

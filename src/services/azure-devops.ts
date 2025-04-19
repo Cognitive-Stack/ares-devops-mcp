@@ -1,3 +1,5 @@
+"use strict";
+
 import axios from "axios";
 import { AzureDevOpsConfig, Repository, Branch, PullRequest, Commit } from "../types/tools";
 

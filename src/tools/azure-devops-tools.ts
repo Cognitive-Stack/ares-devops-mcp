@@ -1,3 +1,5 @@
+"use strict";
+
 import { z } from "zod";
 import { getConfig } from "../config/env";
 import { AzureDevOpsService } from "../services/azure-devops";
