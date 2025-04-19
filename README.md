@@ -6,6 +6,10 @@
 
 The Model Context Protocol (MCP) is an open standard that enables AI systems to interact seamlessly with various data sources and tools, facilitating secure, two-way connections.
 
+<a href="https://glama.ai/mcp/servers/@Cognitive-Stack/ares-devops-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Cognitive-Stack/ares-devops-mcp/badge" alt="Ares DevOps Server MCP server" />
+</a>
+
 The Ares DevOps MCP server provides:
 
 * Seamless interaction with Azure DevOps Git repositories
@@ -184,4 +188,4 @@ Get the commit history for the "main" branch in repository "my-project".
 
 * Model Context Protocol for the MCP specification
 * Anthropic for Claude Desktop
-* Microsoft Azure DevOps for the API 
+* Microsoft Azure DevOps for the API
